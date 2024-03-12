@@ -1,0 +1,1 @@
+Write a Python function to identify palindromic DNA sequences. Given a DNA sequence as input, determine if it forms a palindrome. For example, the DNA sequence "ATCGAT" is not a palindrome, but "GAATTC" is a palindrome because its reverse complement is the same as the original sequence.
