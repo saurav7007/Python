@@ -3,11 +3,9 @@ file = open("rosalind_fib.txt", "r")
 
 data = file.read().strip().split(' ')
 
-# Pull the 
 months = int(data[0])
 
 birthRate = int(data[1])
-
 
 def fib(n, k):
     previous1, previous2 = 1, 1
